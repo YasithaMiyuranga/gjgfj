@@ -31,7 +31,7 @@
               </span>
               <ul>
                 <li>
-                  Visit our website at <a href="#"> https://www.4zeroevents.com/</a>, or any website of ours that links to this privacy notice
+                  Visit our website at <a href="#"> https://lionevents.stockaraa.com/</a>, or any website of ours that links to this privacy notice
                 </li>
                 <li>
                   Engage with us in other related ways, including any sales, marketing, or events

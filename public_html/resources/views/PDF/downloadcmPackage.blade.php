@@ -123,7 +123,7 @@
         <div class="quotation-heading">
             <div>
                 <h1>QUOTATION</h1>
-                <h3>4ZERO Events</h3>
+                <h3>Lion Events</h3>
             </div>
             <div class="quotation-address">
                 <h4>4A Holding Pvt (Ltd)</h4>

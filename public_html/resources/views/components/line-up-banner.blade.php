@@ -235,12 +235,12 @@
                                         class="straight-line"></span>Unlock Unforgettable</span>
                                 <h2 class="title display-3 fw-extra-bold d-flex flex-column">
                                     <span class="mb-n2 text-opacity"> Experiences</span>
-                                    <span class="sub-title fw-extra-bold primary-text-shadow">with 4ZERO Events</span>
+                                    <span class="sub-title fw-extra-bold primary-text-shadow">with Lion Events</span>
                                 </h2>
                             </div>
                             <p class="custom-sans custom-font-style-1 mb-4 mb-lg-30">
                                 Explore our curated packages designed to make your event unforgettable.
-                                Choose the perfect package for your occasion and let 4ZERO Events turn your vision into reality.
+                                Choose the perfect package for your occasion and let Lion Events turn your vision into reality.
                             </p>
                             <!-- <p class="custom-sans custom-font-style-1">
                                 Experience the magic of harmonious melodies in a night to remember.

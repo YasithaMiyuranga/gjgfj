@@ -460,7 +460,7 @@
                 <div class="col-lg-5">
                     <div class="highlights-text wow fadeInLeft">
                         <p class="custom-sans custom-font-style-1 text-lg-end mb-2">
-                            Our valued partners and sponsors play a pivotal role in bringing the vision of 4zero Events to
+                            Our valued partners and sponsors play a pivotal role in bringing the vision of Lion Events to
                             life.
                             With their unwavering support, we orchestrate unforgettable experience that resonate deeply with
                             our audience.
@@ -610,7 +610,7 @@
                     <div class="highlights-text wow fadeInLeft">
                         <p class="custom-jakarta custom-font-style-2 text-lg-end mb-2">
                             Explore our curated packages designed to make your event unforgettable.
-                            Choose the perfect package for your occasion and let 4ZERO Events turn your vision into reality.
+                            Choose the perfect package for your occasion and let Lion Events turn your vision into reality.
                         </p>
                     </div>
                 </div>

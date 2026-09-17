@@ -195,7 +195,7 @@
                         <div class="col-lg-5">
                             <div class="direction-left-content wow fadeInRight">
                                 <h2 class="display-5 fw-extra-bold custom-jakarta">
-                                    Get Direction to 4ZERO Entertainment
+                                    Get Direction to Lion Events & Entertainment
                                 </h2>
                                 <div
                                     class="d-flex flex-column flex-lg-row gap-5 justify-content-lg-between align-items-lg-center mt-30 mt-lg-50">
@@ -203,7 +203,7 @@
                                         <span class="fs-3 straight-line-wrapper fw-semibold position-relative"><span
                                                 class="straight-line"></span>Venue</span>
                                         <div class="mt-10 mt-lg-30">
-                                            <h4 class="custom-jakarta fw-extra-bold">4ZERO Events</h4>
+                                            <h4 class="custom-jakarta fw-extra-bold">Lion Events</h4>
                                             <h4 class="custom-jakarta fw-normal">169, Mahapala Waththa, Hakamana Road,
                                                 Thudava, Matara.</h4>
                                         </div>

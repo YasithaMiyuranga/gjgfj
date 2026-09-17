@@ -25,7 +25,7 @@
                         <img src="/assets/images/cart/thank-you.svg" class="icon" alt="Thank You">
                         <h2 class="title">Thank You!</h2>
                         <span class="desc">
-                            We're grateful that you've chosen 4ZERO Events for
+                            We're grateful that you've chosen Lion Events for
                             your rental needs! Your order is in good hands and is
                             currently being processed. Got questions or special requests? Our team is here
                             to help, ensuring your rental experience is smooth
@@ -68,8 +68,8 @@
                                     </svg>
                                 </div>
                                 <div class="detail">
-                                    <a href="mailto:contact@4zeroevents.com">
-                                        contact@4zeroevents.com
+                                    <a href="mailto:contact@lionevents.com">
+                                        contact@lionevents.com
                                     </a>
                                 </div>
                             </div>
@@ -85,7 +85,7 @@
                                 </div>
                                 <div class="detail">
                                     <span>
-                                        4ZERO Events <br>
+                                        Lion Events <br>
                                         No 169, Mahapala Waththa, Thudava, Matara.
                                     </span>
                                 </div>

@@ -38,7 +38,7 @@
                             </div>
                             <div class="col-md-5 col-xl-4 col-lg-5">
                                 <div class="event-content ms-xxl-5">
-                                    <h2>4ZERO Events</h2>
+                                    <h2>Lion Events</h2>
                                     <h4>Mahapala Waththa, Thudava, Matara</h4>
                                 </div>
                             </div>

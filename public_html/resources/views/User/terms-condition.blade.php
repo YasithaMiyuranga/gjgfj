@@ -413,7 +413,7 @@ having drafted them. You hereby walve any and all defenses you may have based on
                     <a href="mailto:4aholdingpvt@gmail.com">4aholdingpvt@gmail.com</a>
                   </p>
                   <p>
-                  4ZERO Events <br>
+                  Lion Events <br>
                   No 169, Mahapalawaththa, Thudava, Matara. <br>
                   <a href="callto: 0777836963"> +94 777 83 6963</a>
                   </p>

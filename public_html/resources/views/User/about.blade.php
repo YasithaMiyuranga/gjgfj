@@ -46,8 +46,7 @@
                     <div class="col-lg-6">
                         <div class="wow fadeInRight">
                             <div class="section-title section-title-style-2 mb-4 mb-lg-30 mb-xxl-40">
-                                <h3 class="sub-title display-3 fw-extra-bold primary-text-shadow custom-roboto">4ZERO
-                                    Entertainment</h3>
+                                <h3 class="sub-title display-3 fw-extra-bold primary-text-shadow custom-roboto">Lion Events & Entertainment</h3>
                                 </h3>
                             </div>
                             <!-- section-title -->
@@ -105,7 +104,7 @@
                     <div class="col-lg-4">
                         <div class="section-title section-title-style-2 wow fadeInRight">
                             <span class="fs-3 straight-line-wrapper fw-semibold position-relative custom-roboto"> <span
-                                    class="straight-line"></span>Behind The 4ZERO Events</span>
+                                    class="straight-line"></span>Behind The Lion Events</span>
                             <h2 class="title display-3 fw-extra-bold mb-n2 text-opacity custom-roboto">Meet Our</h2>
                             <h3 class="sub-title display-3 fw-extra-bold primary-text-shadow custom-roboto">Crew Members
                             </h3>
@@ -115,7 +114,7 @@
                     <div class="col-lg-4">
                         <div class="highlights-text wow fadeInLeft">
                             <p class="custom-jakarta custom-font-style-1 text-lg-end mb-2">
-                                At 4zero Events, we're proud to have a dedicated team of talented
+                                At Lion Events, we're proud to have a dedicated team of talented
                                 individuals who bring passion, expertise, and creativity to every event.
                             </p>
                         </div>
@@ -427,8 +426,8 @@
                     <div class="col-lg-5">
                         <div class="highlights-text wow fadeInLeft">
                             <p class="custom-jakarta custom-font-style-2 text-lg-end mb-2">
-                                4ZERO Events is a Total Event Management Solutions company specializing in social and corporate gatherings.
-                                4ZERO Events creates one-of-a-kind, unforgettable events for you and your guests also we can provide many services.
+                                Lion Events is a Total Event Management Solutions company specializing in social and corporate gatherings.
+                                Lion Events creates one-of-a-kind, unforgettable events for you and your guests also we can provide many services.
                             </p>
                         </div>
                     </div>
@@ -513,7 +512,7 @@
                         <div class="col-lg-5">
                             <div class="direction-left-content wow fadeInRight">
                                 <h2 class="display-5 fw-extra-bold custom-jakarta">
-                                    Get Direction to 4ZERO Events
+                                    Get Direction to Lion Events
                                 </h2>
                                 <div
                                     class="d-flex flex-column flex-lg-row gap-5 justify-content-lg-between align-items-lg-center mt-30 mt-lg-50">
@@ -521,7 +520,7 @@
                                         <span class="fs-3 straight-line-wrapper fw-semibold position-relative"><span
                                                 class="straight-line"></span>Venue</span>
                                         <div class="mt-10 mt-lg-30">
-                                            <h4 class="custom-jakarta fw-extra-bold">4ZERO Events</h4>
+                                            <h4 class="custom-jakarta fw-extra-bold">Lion Events</h4>
                                             <h4 class="custom-jakarta fw-normal">No 169, Mahapala Waththa, Thudava , Matara.</h4>
                                         </div>
                                     </div>
@@ -595,7 +594,7 @@
                                 <a href="mailto:4aholdingpvt@gmail.com"
                                     class="text-decoration-none display-6 custom-jakarta fw-extra-bold">4aholdingpvt@gmail.com</a>
                                 <div class="contact-details custom-heading-color-2 mt-10 mt-lg-30">
-                                    <h3 class="custom-jakarta fw-bold mb-20">4ZERO Events</h3>
+                                    <h3 class="custom-jakarta fw-bold mb-20">Lion Events</h3>
                                     <h3 class="custom-jakarta fw-semibold mb-5">No 169, Mahapalawaththa, Thudava, Matara</h3>
                                     <h3 class="custom-jakarta fw-bold">+94 777 83 6963</h3>
                                     <ul

@@ -72,7 +72,7 @@
                         </span>
 
                         <div class="map-popup-content">
-                            <h3>4ZERO Events</h3>
+                            <h3>Lion Events</h3>
                             <p>No 169, Mahapala Waththa, Hakmana
                                 Road, Thudava, Matara</p><a id="mapDirectionBtn" href=""
                                 class="btn btn-primary btn-sm d-flex align-items-center justify-content-center custom-roboto gap-10 btn-map-direction"

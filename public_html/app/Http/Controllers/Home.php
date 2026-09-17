@@ -23,7 +23,7 @@ class Home extends Controller
 
     function Home()
     {
-        $bannerName = "4Zero Events & Entertainment";
+        $bannerName = "Lion Events & Entertainment";
         $bannerImage = "images/banner.jpg";
         $bannerarr = [
             'workcount' => 100,
