@@ -1,0 +1,299 @@
+{
+    "app_name": "4ZERO Entertainment",
+    "app_description": "Eventiva description contents",
+    "app_icon": "4-Zero-Icon-1-_1_.ico",
+    "app_logo": "4zeroeventslogo.png",
+    "app_keywords": "productivity, app, task management",
+    "facebook_link": "",
+    "instagram_link": "",
+    "google_analytics_id": "",
+    "app": {
+        "home": {
+            "images": {
+                "UpdateBanner.jpg": {
+                    "url": "assets\/images\/UpdateBanner.jpg",
+                    "title": "",
+                    "alt": "test alt 1234"
+                },
+                "AboutUs.webp": {
+                    "url": "assets\/images\/home\/AboutUs.webp",
+                    "title": "",
+                    "alt": ""
+                },
+                "thraithala.webp": {
+                    "url": "assets\/images\/home\/Projectwedone\/thraithala.webp",
+                    "title": "",
+                    "alt": ""
+                },
+                "flyyingdust.webp": {
+                    "url": "assets\/images\/home\/Projectwedone\/flyyingdust.webp",
+                    "title": "",
+                    "alt": ""
+                },
+                "kalabaraheena.webp": {
+                    "url": "assets\/images\/home\/Projectwedone\/kalabaraheena.webp",
+                    "title": "",
+                    "alt": ""
+                },
+                "laforesta.webp": {
+                    "url": "assets\/images\/home\/Projectwedone\/laforesta.webp",
+                    "title": "",
+                    "alt": ""
+                },
+                "maskiya.webp": {
+                    "url": "assets\/images\/home\/Projectwedone\/maskiya.webp",
+                    "title": "",
+                    "alt": ""
+                },
+                "ocendrive.webp": {
+                    "url": "assets\/images\/home\/Projectwedone\/ocendrive.webp",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-01.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-01.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-02.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-02.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-03.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-03.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-04.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-04.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-05.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-05.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-06.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-06.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-07.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-07.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-08.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-08.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-09.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-09.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-10.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-10.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-11.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-11.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-12.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-12.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-13.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-13.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-14.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-14.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-15.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-15.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-16.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-16.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-17.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-17.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-18.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-18.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-19.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-19.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-20.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-20.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-21.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-21.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-22.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-22.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-23.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-23.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-24.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-24.jpg",
+                    "title": "",
+                    "alt": "test alt 2"
+                },
+                "image-25.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-25.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-26.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-26.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-27.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-27.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-28.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-28.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-29.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-29.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-30.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-30.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-31.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-31.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-32.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-32.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-33.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-33.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-34.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-34.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-35.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-35.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-36.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-36.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-37.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-37.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-38.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-38.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-39.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-39.jpg",
+                    "title": "",
+                    "alt": ""
+                },
+                "image-40.jpg": {
+                    "url": "assets\/images\/Slider-Gallery\/image-40.jpg",
+                    "title": "",
+                    "alt": ""
+                }
+            }
+        },
+        "packages": {
+            "images": {
+                "banner-2.jpg": {
+                    "url": "assets\/images\/banner-2.jpg",
+                    "title": "",
+                    "alt": "zzzzz"
+                },
+                "wedding.webp": {
+                    "url": "assets\/images\/packages\/wedding.webp",
+                    "title": "",
+                    "alt": "lanka wedding function Packages"
+                },
+                "party.webp": {
+                    "url": "assets\/images\/packages\/party.webp",
+                    "title": "",
+                    "alt": "iiiii"
+                },
+                "musical.webp": {
+                    "url": "assets\/images\/packages\/musical.webp",
+                    "title": "",
+                    "alt": ""
+                }
+            }
+        },
+        "contact": {
+            "images": {
+                "banner-2.jpg": {
+                    "url": "assets\/images\/banner-2.jpg",
+                    "title": "",
+                    "alt": "dddd"
+                },
+                "about-image-1_update.jpg": {
+                    "url": "assets\/images\/home-1\/about-image-1_update.jpg",
+                    "title": "",
+                    "alt": "sssssss"
+                },
+                "about-ticket-image_update2.jpg": {
+                    "url": "assets\/images\/about-ticket-image_update2.jpg",
+                    "title": "",
+                    "alt": ""
+                }
+            }
+        }
+    }
+}

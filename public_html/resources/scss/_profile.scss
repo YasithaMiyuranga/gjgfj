@@ -1,0 +1,76 @@
+
+// $scrollbar-track-bg: var(--bs-custom-inner-bg, #f1f1f1);
+// $scrollbar-thumb-bg: #888;
+// $scrollbar-thumb-hover-bg: #555;
+// $ticket-height-lg: 250px;
+
+// .profile {
+//     .rn-author-info-content {
+//         margin: 6px 0 0 10px;
+//     }
+//     .gmail {
+//         font-size: 0.9rem;
+//         color: var(--bs-breadcrumb-item-active-color, #969696d2);
+//     }
+//     .form-label {
+//         color: white;
+//     }
+//     .tab-title{
+//         font-size: 2.1rem;
+//     }
+//     .straight-line-wrapper {
+//         padding-left: 25px;
+//         .straight-line {
+//             width: 20px;
+//         }
+//     }
+
+//     .contact-lists {
+//         li {
+//             font-size: 1rem;
+//         }
+//     }
+//     .tickets-wrap {
+//         height: auto;
+//         padding: 25px 15px;
+//         border-radius: 10px;
+
+//         @media (min-width: 996px) {
+//             height: $ticket-height-lg;
+//             overflow-y: auto;
+//         }
+//     }
+//     .ticket-container {
+//         margin-bottom: 20px;
+//         height: 100px;
+//         border-radius: 8px;
+//     }
+//     .ticket-wrapper {
+//         --bg-parallax-image: url('../images/about-ticket-image.jpg');
+//         padding: 10px 5px;
+
+//         &.parallax {
+//             &::after {
+//                 border-radius: 0;
+//             }
+//         }
+
+//         &::after {
+//             height: 95px;
+//         }
+//     }
+
+//     // Custom Scrollbar Styling
+//     &::-webkit-scrollbar {
+//         width: 10px;
+//     }
+//     &::-webkit-scrollbar-track {
+//         background: $scrollbar-track-bg;
+//     }
+//     &::-webkit-scrollbar-thumb {
+//         background: $scrollbar-thumb-bg;
+//         &:hover {
+//             background: $scrollbar-thumb-hover-bg;
+//         }
+//     }
+// }

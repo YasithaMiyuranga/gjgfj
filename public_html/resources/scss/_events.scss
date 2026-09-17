@@ -1,0 +1,114 @@
+.event-boxes-wrap{
+  padding: 80px 0;
+  @media (max-width: 768px) {
+    padding: 60px 0;
+  }
+  .container{
+    .full-wrap{
+      margin-bottom: 25px;
+      &:last-child{
+        margin-bottom: 0;
+      }
+      .image-btn-wrap{
+        position: relative;
+          .image{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-top-right-radius: 18px;
+            border-bottom-right-radius: 18px;
+            @media (max-width: 768px) {
+              border-bottom-left-radius: 18px;
+            }
+          }
+        .btn-wrap{
+          position: absolute;
+          bottom: 10px;
+          right: 15px;
+          .btn-custom{
+            padding: 6px 15px;
+            margin-bottom: 4px;
+            font-size: 14px !important;
+            border-radius: 6px;
+          }
+        }
+      }
+      .name-wrap{
+        .box {
+          width: 100%;
+          height: 300px;
+          border-top-left-radius: 18px;
+          border-bottom-left-radius: 18px;
+          box-shadow: 0 2px 30px rgba(0, 0, 0, .2);
+          background: lighten(#f68634, 10%);
+          position: relative;
+          overflow: hidden;
+          transform: translate3d(0, 0, 0);
+          @media (max-width: 768px) {
+            border-bottom-left-radius: 0px;
+            border-top-right-radius: 18px;
+          }
+          &:after {
+            content: '';
+            display: block;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to bottom, rgba(255, 204, 0, 1), rgba(255, 221, 0, 0) 80%, rgba(255, 255, 255, .5));
+            z-index: 11;
+            transform: translate3d(0, 0, 0);
+          }
+          
+          .wave {
+            opacity: .6;
+            position: absolute;
+            top: 3%;
+            left: 50%;
+            background: rgba(246, 134, 52, 0.8);
+            width: 500px;
+            height: 500px;
+            margin-left: -250px;
+            margin-top: -250px;
+            transform-origin: 50% 48%;
+            border-radius: 43%;
+            animation: drift 3000ms infinite linear;
+          
+            &.-three {
+              animation: drift 5000ms infinite linear;
+            }
+          
+            &.-two {
+              animation: drift 7000ms infinite linear;
+              opacity: .3;
+              background: rgba(255, 152, 0, 0.4);
+            }
+          }
+          
+          .title {
+            position: absolute;
+            left: 0;
+            top: 50%;
+            
+            width: 100%;
+            z-index: 1;
+            text-align: center;
+            transform: translate3d(0, 0, 0);
+            color: white;
+            text-transform: uppercase;
+            font-size: 18px;
+            text-shadow: 0 1px 0 rgba(0, 0, 0, .1);
+            transform: translateY(-50%);
+            font-weight: bold;
+          }
+        }
+
+        @keyframes drift {
+          from { transform: rotate(0deg); }
+          to { transform: rotate(360deg); }
+        }
+
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+<x-auth-validation-errors class="mb-4" :errors="$errors" />
+<form action="{{ route('useradmin.events.ticket.coupon_delete', $id) }}" method="POST" class="d-inline">
+    @csrf
+    @method('DELETE')
+    <p>Are you Sure Delete this Coupon</p>
+    <button type="submit" class="btn btn-sm btn-danger">
+        Delete
+    </button>
+</form>

@@ -1,0 +1,118 @@
+
+// ======================== Pricing-1 ==========================>>>>
+.pricing-wrapper {    
+    --#{$prefix}pricing-title-color: #888492;
+    --#{$prefix}pricing-subtitle-color: #5B5C66;  
+    --#{$prefix}pricing-border-color: rgba(104, 102, 102, 0.30) ;
+}
+.pricing-border{    
+    .border{        
+        --#{$prefix}border-width: 1px;
+        --#{$prefix}border-style: dashed;
+        --#{$prefix}border-color:  var(--#{$prefix}pricing-border-color);
+    }    
+}
+.bg-ticket{    
+    --#{$prefix}pricing-icon-color : var(--#{$prefix}primary);
+    --#{$prefix}ticket-bg : #EBEDFF;
+    --#{$prefix}circle-fill-color: var(--#{$prefix}primary);
+    --#{$prefix}circle-bg: rgba(var(--#{$prefix}primary-rgb),.4) ;
+    border-radius: 30px;
+    max-width: 412px;
+    border: 2px solid var(--#{$prefix}pricing-border-color);
+
+    .pricing-list{
+        --#{$prefix}circle-fill-color: var(--#{$prefix}primary);
+        li{        
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            svg{
+                fill: var(--#{$prefix}circle-fill-color);
+            }
+            .check-icon{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 20px;
+                height: 20px;
+                background-color: var(--#{$prefix}circle-bg);
+                border-radius: 50%;
+            }
+        }
+    }   
+}
+
+.pricing-title{
+    color: var(--#{$prefix}pricing-title-color);
+}
+.pricing-subtitle{
+    color: var(--#{$prefix}pricing-subtitle-color);
+}
+.pricing-icon{    
+    color: var(--#{$prefix}pricing-icon-color);
+}
+// ======================== Pricing-1 ==========================>>>>
+
+
+
+// ======================== Merchandise-1 ==========================>>>>
+.merchandise-1{
+    --#{$prefix}merchandise-1-bg: #F6F4F9;
+    --#{$prefix}merchandise-border: rgba(104, 102, 102, 0.30);
+    --#{$prefix}merchandise-wrapper-bg: #fff;
+    background-color: var(--#{$prefix}merchandise-1-bg);
+    h5{
+        color: var(--#{$prefix}heading-color);
+    }
+    .ellipse-image-4, .ellipse-image-6{
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        margin-left: -56px;
+        margin-bottom: -55px;
+        animation: move-y 4s infinite  alternate;
+        @include media-breakpoint-down(md) {
+            margin-right: 0;
+            margin-top: -40px;  
+        }
+    }
+}
+.merchandise-wrapper{    
+    padding: 20px 20px 24px 20px;
+    border-radius: 30px;
+    border: 2px solid var(--#{$prefix}merchandise-border);
+    max-width: 310px;
+    background-color: var(--#{$prefix}merchandise-wrapper-bg);
+    .btn{
+        --#{$prefix}btn-font-size: 14px;
+    }
+    .btn-outline-primary , .btn-outline-secondary{
+        --#{$prefix}btn-padding-x: 1.5rem;
+        --#{$prefix}btn-padding-y: .65rem;
+    }
+    .merchandise-image{
+        overflow: hidden;
+        border-radius: 30px;
+        transition: $transition-base;
+    }
+    img{
+        transition: $transition-base;   
+    }
+    transition: $transition-base;
+    &:hover{
+        box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+        img{
+            transform: scale(1.07);
+        }
+    }
+    &.merchandise-dark{
+        &:hover{            
+            box-shadow: rgba(255, 255, 255, 0.18) 0px 2px 4px;            
+        }
+    }
+}
+.product-information{
+    max-width: 142px;
+}
+// ======================== Merchandise-1 ==========================>>>>

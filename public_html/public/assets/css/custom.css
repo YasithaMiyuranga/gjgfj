@@ -1,0 +1,216 @@
+:root {
+    --bs-custom-inner-bg: #f1f1f1;
+    --bs-breadcrumb-item-active-color: #969696d2;
+}
+
+.profile .rn-author-info-content {
+    margin: 6px 0 0 10px;
+}
+
+.profile .gmail {
+    font-size: 0.9rem;
+    color: var(--bs-breadcrumb-item-active-color, #969696d2);
+}
+
+.profile .form-label {
+    color: white;
+}
+
+.profile .tab-title {
+    font-size: 2.1rem;
+}
+
+.profile .straight-line-wrapper {
+    padding-left: 25px;
+}
+
+.profile .straight-line-wrapper .straight-line {
+    width: 20px;
+}
+
+.profile .contact-lists li {
+    font-size: 1rem;
+}
+
+.profile .tickets-wrap {
+    height: auto;
+    padding: 25px 15px;
+    border-radius: 10px;
+}
+
+@media (min-width: 996px) {
+    .profile .tickets-wrap {
+        height: 250px;
+        overflow-y: auto;
+    }
+}
+
+.profile .ticket-container {
+    margin-bottom: 20px;
+    height: 100px;
+    border-radius: 8px;
+}
+
+.profile .ticket-wrapper {
+    --bg-parallax-image: url('../images/about-ticket-image.jpg');
+    padding: 10px 5px;
+}
+
+.profile .ticket-wrapper.parallax::after {
+    border-radius: 0;
+}
+
+.profile .ticket-wrapper::after {
+    height: 95px;
+}
+
+/* Custom Scrollbar Styling */
+.profile::-webkit-scrollbar {
+    width: 10px;
+}
+
+.profile::-webkit-scrollbar-track {
+    background: var(--bs-custom-inner-bg, #f1f1f1);
+}
+
+.profile::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+.profile::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.ticket-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    all: unset; /* Resets all inherited and default styles */
+  box-sizing: border-box; /* Ensure proper box model */
+  display: inline-block; /* Ensures buttons align properly */
+  cursor: pointer; /* Adds pointer cursor for clarity */
+  }
+
+  .ticket-wrap .ticket-decrease-popup {
+    color: #ffffff;
+    background: #f68634;
+    border: 1px solid #f68634;
+    padding: 6px;
+    width: 30px;
+    text-align: center;
+    cursor: pointer;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+  }
+
+  .ticket-wrap .ticket-decrease-popup:hover {
+    background: none;
+    border: 1px solid #f68634;
+  }
+
+  .ticket-wrap .ticket-increase-popup {
+    color: #ffffff;
+    background: #f68634;
+    border: 1px solid #f68634;
+    padding: 6px;
+    width: 30px;
+    text-align: center;
+    cursor: pointer;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+  }
+
+  .ticket-wrap .ticket-increase-popup:hover {
+    background: none;
+    border: 1px solid #f68634;
+  }
+
+  .ticket-wrap .ticket-field-popup {
+    width: 60px;
+    text-align: center;
+    outline: none;
+    border-radius: 0;
+    border: none;
+    padding: 8px 10px;
+    -webkit-appearance: none;
+    -moz-appearance: textfield;
+    margin: 0;
+  }
+
+  /* Variables (converted to static values) */
+:root {
+    --circle-size: 165px;
+    --radius: 100px;
+    --shadow: 0 0 10px 0 rgba(255, 255, 255, 0.35);
+    --font-color: rgb(250, 250, 250);
+  }
+
+  /* Mixin equivalent */
+  .object-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Profile Picture Styling */
+  .profile-pic {
+    color: transparent;
+    transition: all 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 13px;
+    right: 78px;
+
+    input {
+      display: none;
+    }
+
+    img {
+      position: absolute;
+      object-fit: cover;
+      width: 120px;
+      height: 120px;
+      box-shadow: var(--shadow);
+      border-radius: var(--radius);
+      z-index: 0;
+    }
+
+    .-label {
+      cursor: pointer;
+      height: var(--circle-size);
+      width: var(--circle-size);
+    }
+
+    &:hover .-label {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: rgba(0, 0, 0, 0.8);
+      z-index: 10000;
+      color: var(--font-color);
+      transition: background-color 0.2s ease-in-out;
+      border-radius: var(--radius);
+    }
+
+    span {
+      display: inline-flex;
+      padding: 0.2em;
+      height: 2em;
+    }
+  }
+
+  /* Body Styling */
+  /* body {
+    height: 100vh;
+    background-color: rgb(25, 24, 21);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } */
+
+  a:hover {
+    text-decoration: none;
+  }
+

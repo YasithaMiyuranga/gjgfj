@@ -1,0 +1,53 @@
+
+// ======================== Gallery-1 ==========================>>>>
+
+.gallery-slider-1 {
+    display: flex;
+    animation: scroll-rightToLeft 70s linear infinite;
+    transition: $transition-base;
+    position: relative;
+    &:hover{
+        animation-play-state: paused;
+    }
+    @include media-breakpoint-down(lg) {
+        animation-duration: 40s;
+    }
+}
+.gallery-slider-2 {
+    display: flex;
+    animation: scroll-rightToLeft 45s linear infinite;
+    margin-top: 30px;
+    transition: $transition-base;    
+    &:hover{
+        animation-play-state: paused;
+    }
+    @include media-breakpoint-down(lg) {
+        margin-top: 20px;
+        animation-duration: 25s;        
+    }
+}
+
+.gallery-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 15px;
+    @include media-breakpoint-down(lg) {
+        margin: 0 7px;
+    }
+}
+
+.gallery-item img {
+    display: block;
+    // width: 100%;  
+    border-radius: 30px !important;
+    max-height: 250px;
+    max-width: fit-content !important;
+    
+    @include media-breakpoint-down(lg) {
+        height: 150px;
+        max-width: 200px;
+        // width: 100%;
+    }
+}
+// ======================== Gallery-1 ==========================>>>>

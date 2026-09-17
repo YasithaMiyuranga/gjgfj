@@ -1,0 +1,46 @@
+.privacy-term-wrap{
+  .content-wrap{
+    .update-wrap{
+      margin-bottom: 20px;
+    }
+    .summary-wrap{
+      margin-top: 20px;
+      .title{
+        h2{
+          text-transform: uppercase;
+          font-size: 24px !important;
+        }
+      }
+      .desc{
+        .item{
+          margin-bottom: 15px;
+          &:last-child{
+            margin-bottom: 0;
+          }
+          span{
+            font-weight: bold;
+            color: #707070;
+          }
+        }
+      }
+    }
+    .table-of-content-wrap{
+      margin-top: 20px;
+    }
+    .table-of-content-detail-wrap{
+      margin-top: 20px;
+      .detail-item{
+        margin-bottom: 15px;
+        &:last-child{
+          margin-bottom: 0;
+        }
+        .title{
+          h2{
+            text-transform: uppercase;
+            font-size: 24px;
+          }
+        }
+      }
+    }
+  }
+}

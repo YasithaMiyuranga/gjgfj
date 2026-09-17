@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background: #22242c !important;
+
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.auth-wrapper .auth-content {
+    min-height: unset !important;
+}
+
+
+@media only screen and (min-width: 1200px) {
+    .auth-wrapper .auth-content {
+        width: 1000px !important;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .auth-wrapper .auth-content {
+        width: 480px !important;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .auth-wrapper .auth-content {
+        width: 350px !important;
+        padding: 20px 15px !important;
+    }
+    .auth-wrapper .card .card-body {
+        padding: 15px 20px !important;
+    }
+}

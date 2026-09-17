@@ -1,0 +1,58 @@
+.highlight-section{
+  .container{
+    .swiper{
+      padding-bottom: 65px;
+      &.highlight-swiper{
+        .swiper-controls{
+          position: absolute;
+          bottom: 30px;
+          left: 0;
+          width: 100%;
+          height: auto;
+          .swiper-button-next{
+            top: unset;
+            bottom: -20px;
+            &::before,
+            &::after {
+              content: none;
+            }
+            .icon-bg{
+              background: #f68634;
+              padding: 6px;
+              border-radius: 5px;
+              @media (hover: hover) {
+                &:hover{
+                  padding: 4px;
+                  background-color: unset;
+                  border: 2px solid #f68634;
+                }
+              }
+            }
+          }
+          .swiper-button-prev{
+            left: unset;
+            top: unset;
+            right: 58px;
+            bottom: -20px;
+            &::before,
+            &::after {
+              content: none;
+            }
+            .icon-bg{
+              background: #f68634;
+              padding: 6px;
+              border-radius: 5px;
+              @media (hover: hover) {
+                &:hover{
+                  padding: 4px;
+                  background-color: unset;
+                  border: 2px solid #f68634;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

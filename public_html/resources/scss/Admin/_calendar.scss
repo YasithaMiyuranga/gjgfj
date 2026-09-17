@@ -1,0 +1,19 @@
+body.theme-3 a:not([class]) {
+    color: #fff !important;
+}
+
+.fc .fc-list-sticky .fc-list-day > * {
+    background: var(--bs-light);
+}
+
+:root {
+    --fc-list-event-hover-bg-color: #2c2c2c;
+}
+
+a:not([href]) {
+    color: #495057;
+}
+
+
+
+

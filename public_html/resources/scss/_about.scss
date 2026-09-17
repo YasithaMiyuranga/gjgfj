@@ -1,0 +1,37 @@
+.highlight-section{
+  .services-wrap{
+    .services-item-wrap{
+      margin-bottom: 20px;
+      &:last-child{
+        margin-bottom: 0;
+      }
+      .highlights-item-3{
+        border-right: 5px solid #f68634;
+        height: 230px;
+        @media screen and (max-width: 992px) {
+          height: 202px;
+        }
+        h3{
+          margin-top: 10px;
+          -webkit-line-clamp: unset;
+          -webkit-box-orient: unset;
+        }
+        .info-wrap{
+          .highlights-icon-style-1{
+            img{
+              height: 55px;
+            }
+          }
+        }
+        .img-wrap{
+          position: absolute;
+          bottom: 0;
+          right: 15px;
+          img{
+            height: 130px;
+          }
+        }
+      }
+    }
+  }
+}

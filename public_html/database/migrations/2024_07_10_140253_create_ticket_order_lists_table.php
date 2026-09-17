@@ -1,0 +1,39 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('ticket_order_lists', function (Blueprint $table) {
+            $table->id();
+            $table->integer('order_id');
+            $table->integer('ticket_user_id');
+            $table->integer('coupon_id');
+            $table->string('name');
+            $table->integer('quantity');
+            $table->double('discount');
+            $table->double('amount');
+            $table->text('coupon_code');
+            $table->timestamps();
+
+            $table->foreign('order_id')->references('oid')->on('ticket_owners')->onDelete('cascade');
+            $table->foreign('ticket_user_id')->references('id')->on('user_tickets')->onDelete('cascade');   
+            $table->foreign('coupon_id')->references('id')->on('event_coupon_lists')->onDelete('cascade');  
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('ticket_order_lists');
+    }
+};

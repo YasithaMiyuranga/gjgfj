@@ -1,0 +1,53 @@
+.custom-package-complete{
+  margin-top: 50px;
+  .billing-details-wrap{
+    .billing-item{
+      margin-bottom: 20px;
+      .label-name{
+        margin-bottom: 5px;
+        color: #fff;
+        font-size: 14px;
+      }
+      .form-control{
+        &:focus {
+          border-color: #5B5C66;
+          box-shadow: none;
+        }
+      }
+    }
+  }
+  .order-place-details{
+    position: relative;
+    border: 1px solid #5B5C66;
+    height: fit-content;
+    padding: 45px 20px 20px 20px;
+    border-radius: 18px;
+      @media (max-width: 768px) {
+        width: 95%;
+        margin: 0 10px;
+      }
+    .order-title{
+      font-size: 18px;
+      font-weight: bold;
+      color: #fff;
+    }
+    .top-design{
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 30px;
+      background-color: #f68634;
+      border-top-left-radius: 18px;
+      border-top-right-radius: 18px;
+    }
+    .btn-wrap{
+      display: flex;
+      justify-content: center;
+      width: 100%;
+      .btn-custom{
+        width: 100%;
+      }
+    }
+  }
+}
