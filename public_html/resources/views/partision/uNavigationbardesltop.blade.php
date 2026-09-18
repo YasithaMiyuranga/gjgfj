@@ -5,8 +5,8 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <a class="navbar-brand" href="/" aria-label="nav-brands">
-            <img src="{{ asset('assets/images/Company/4zeroeventslogo.png') }}" class="logo-light" alt="logo">
-            <img src="{{ asset('assets/images/Company/4zeroeventslogo.png') }}" class="logo-dark" alt="logo">
+            <img src="{{ asset('assets/images/Company/lioneventslogo.png') }}" class="logo-light" alt="logo">
+            <img src="{{ asset('assets/images/Company/lioneventslogo.png') }}" class="logo-dark" alt="logo">
         </a>
         {{-- @if (session('cart') && count(session('cart')) > 0)
         <div class="icon d-flex d-md-none">

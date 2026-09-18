@@ -3,7 +3,7 @@
         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"
             aria-label="Close"></button>
         <a class="navbar-brand" href="/" aria-label="nav-brands"><img
-                src="{{ asset('assets/images/Company/4zeroeventslogo.png') }}" alt="logo"></a>
+                src="{{ asset('assets/images/Company/lioneventslogo.png') }}" alt="logo"></a>
         @if (session('cart') && count(session('cart')) > 0)
         <div class="icon d-flex d-md-none">
             <a href="{{ route('cart.show') }}">

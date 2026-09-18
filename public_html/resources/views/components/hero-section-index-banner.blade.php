@@ -7,7 +7,7 @@
                         {{-- <img src="assets/images/musicfest-1.png" class="musicfest-image mb-10" alt="img"> --}}
                         <h1 class="soundscapes no-stroke fs-80 fw-extra-bold mb-0 wow slideInUp" style="display: flex; flex-direction: column; justify-content: flex-end;">
                             <div>
-                                <span style="color: #f68634;">4</span>Zero Events & Entertainment
+                                <span style="color: #f68634;">Lion</span> Events & Entertainment
                             </div>
                         </h1>
 

@@ -9,9 +9,9 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2">
                 <a class="navbar-brand d-flex justify-content-center" href="/" aria-label="nav-brands">
-                    <img src="{{ asset('assets/images/Company/4zeroeventslogo.png') }}" class="logo-light"
+                    <img src="{{ asset('assets/images/Company/lioneventslogo.png') }}" class="logo-light"
                         alt="logo">
-                    <img src="{{ asset('assets/images/Company/4zeroeventslogo.png') }}" class="logo-dark"
+                    <img src="{{ asset('assets/images/Company/lioneventslogo.png') }}" class="logo-dark"
                         alt="logo">
                 </a>
             </div>

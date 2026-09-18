@@ -35,9 +35,8 @@
                             <h3 class="straight-line-wrapper fw-semibold position-relative"> <span
                                     class="straight-line"></span>About Us</h3>
                             <h2 class="title display-3 fw-extra-bold d-flex flex-column">
-                                <span class="mb-n2 "><span class="text-primary mb-n2 text-opacity">4</span>ZERO</span>
-                                <span class="sub-title fw-extra-bold primary-text-shadow custom-roboto">Events &
-                                    Entertainment</span>
+                                <span class="mb-n2 "><span class="text-primary mb-n2 text-opacity">Lion</span> Events</span>
+                                <span class="sub-title fw-extra-bold primary-text-shadow custom-roboto">& Entertainment</span>
                             </h2>
                         </div>
                         <!-- section-title -->
