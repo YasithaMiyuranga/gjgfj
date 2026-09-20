@@ -521,7 +521,7 @@
                                                 class="straight-line"></span>Venue</span>
                                         <div class="mt-10 mt-lg-30">
                                             <h4 class="custom-jakarta fw-extra-bold">Lion Events</h4>
-                                            <h4 class="custom-jakarta fw-normal">No 169, Mahapala Waththa, Thudava , Matara.</h4>
+                                            <h4 class="custom-jakarta fw-normal">No 123, Matara.</h4>
                                         </div>
                                     </div>
                                     <div class="direction-details">
@@ -592,11 +592,11 @@
                                     class="straight-line"></span>Contact Us</span>
                             <div class="mt-20 mt-md-30 mt-lg-40 mt-xxl-60">
                                 <a href="mailto:4aholdingpvt@gmail.com"
-                                    class="text-decoration-none display-6 custom-jakarta fw-extra-bold">4aholdingpvt@gmail.com</a>
+                                    class="text-decoration-none display-6 custom-jakarta fw-extra-bold">lionevents.com</a>
                                 <div class="contact-details custom-heading-color-2 mt-10 mt-lg-30">
                                     <h3 class="custom-jakarta fw-bold mb-20">Lion Events</h3>
-                                    <h3 class="custom-jakarta fw-semibold mb-5">No 169, Mahapalawaththa, Thudava, Matara</h3>
-                                    <h3 class="custom-jakarta fw-bold">+94 777 83 6963</h3>
+                                    <h3 class="custom-jakarta fw-semibold mb-5">No 123, Matara</h3>
+                                    <h3 class="custom-jakarta fw-bold">+94 712345678</h3>
                                     <ul
                                         class="list-unstyled contact-icons d-flex align-items-center gap-20 gap-lg-30 mt-4 mt-lg-40 mb-0">
                                         <li><a href="#" aria-label="icons"><svg width="30" height="30">
