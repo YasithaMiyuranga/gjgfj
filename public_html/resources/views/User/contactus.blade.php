@@ -204,8 +204,7 @@
                                                 class="straight-line"></span>Venue</span>
                                         <div class="mt-10 mt-lg-30">
                                             <h4 class="custom-jakarta fw-extra-bold">Lion Events</h4>
-                                            <h4 class="custom-jakarta fw-normal">169, Mahapala Waththa, Hakamana Road,
-                                                Thudava, Matara.</h4>
+                                            <h4 class="custom-jakarta fw-normal">123, Matara.</h4>
                                         </div>
                                     </div>
                                     <div class="direction-details">
