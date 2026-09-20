@@ -12,7 +12,7 @@
                                     class="straight-line"></span>Contact Us</span>
                             <h2 class="title display-3 fw-extra-bold d-flex flex-column">
                                 <span class="mb-n2 text-opacity">Call </span>
-                                <span class="sub-title fw-extra-bold primary-text-shadow">0777 83 6963</span>
+                                <span class="sub-title fw-extra-bold primary-text-shadow">0712345678</span>
                             </h2>
                         </div>
                         <!-- section-title -->
@@ -73,8 +73,7 @@
 
                         <div class="map-popup-content">
                             <h3>Lion Events</h3>
-                            <p>No 169, Mahapala Waththa, Hakmana
-                                Road, Thudava, Matara</p><a id="mapDirectionBtn" href=""
+                            <p>No 123,  Matara</p><a id="mapDirectionBtn" href=""
                                 class="btn btn-primary btn-sm d-flex align-items-center justify-content-center custom-roboto gap-10 btn-map-direction"
                                 data-bs-toggle="modal" data-bs-target="#RoutingMapModal">Get Direction <svg
                                     xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"

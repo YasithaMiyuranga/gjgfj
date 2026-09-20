@@ -39,7 +39,7 @@
                             <div class="col-md-5 col-xl-4 col-lg-5">
                                 <div class="event-content ms-xxl-5">
                                     <h2>Lion Events</h2>
-                                    <h4>Mahapala Waththa, Thudava, Matara</h4>
+                                    <h4>Address Matara</h4>
                                 </div>
                             </div>
                             <div class="col-md-2 col-xl-2 col-lg-3">
